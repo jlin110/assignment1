@@ -1,1 +1,1 @@
-Week3 website assignment
+Week3 HTML structure assignment
